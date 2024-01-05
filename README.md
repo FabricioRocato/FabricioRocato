@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Java with Spring boot and Hibernate
 - 💞️ I’m looking to collaborate on APIs
-- 📫 How to reach me www.linkedin.com/in/fabricio-rocato
+- 📫 How to reach me [www.linkedin.com/in/fabricio-rocato](https://www.linkedin.com/in/fabriciorocato/)
 
 
 <!---
